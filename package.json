@@ -1,0 +1,20 @@
+{
+ "name": "Performance-Microservice-KOA",
+ "version": "1.0.0",
+ "description": "",
+ "main": "app.js",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "dev": "nodemon app.js"
+ },
+ "keywords": [],
+ "author": "",
+ "license": "ISC",
+ "dependencies": {
+  "koa": "^2.7.0",
+  "koa-body": "^4.1.0",
+  "koa-bodyparser": "^4.2.1",
+  "koa-logger": "^3.2.0",
+  "koa-router": "^7.4.0"
+ }
+}
